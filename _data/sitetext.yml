@@ -574,7 +574,7 @@ zh: &DEFAULT_ZH
         image: assets/img/team/02.jpg
         desc: 其不仅拥有优秀的项目管理能力，还对AI监控系统的业务需求有深入的理解。他擅长沟通协调，确保团队高效运作，满足客户的需求。
       - name: "胥婷婷"
-        role: "产品经理师"
+        role: "产品经理"
         image: assets/img/team/03.jpg
         desc: 她对用户界面和用户体验有着独特的见解。负责将系统以直观、易用的方式呈现给用户，确保用户能够轻松熟悉并使用智慧AI监控系统。
 
