@@ -82,19 +82,21 @@ de-DE:
 # -----------------
 zh: &DEFAULT_ZH
   nav:
-    - title: "服务"
-      section: services
-    - title: "Portfolio"
+    - title: "困境"
+      section: plight
+    - title: "功能模型"
       section: portfolio
-    - title: "About"
+    - title: "企业概况"
       section: about
-    - title: "Timeline"
+    - title: "优势"
+      section: advantage
+    - title: "解决方案"
       section: timeline
-    - title: "Team"
+    - title: "团队"
       section: team
-    - title: "Contact"
+    - title: "联系我们"
       section: contact
     - title: "云视AI系统"
-      url: http://smartplantai.cn/dashboard
+      url: http://smartplantai.cn
 zh-CN:
   <<: *DEFAULT_ZH

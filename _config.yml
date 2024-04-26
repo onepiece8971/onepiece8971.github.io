@@ -17,11 +17,11 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : 有点科技
-email      : #this is also the email contact forms will go to
+email      : youdian@163.com #this is also the email contact forms will go to
 description: "有点科技视觉AI系统"
 author     : #Your Name
 # logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
+  # path: /assets/img/logo.png
   # height: 60 #height in px, defaults to 52px
 
 locale: "zh-CN" # See available languages in _data/sitetext.yml
@@ -36,4 +36,4 @@ markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-# formspree_form_path: "f/a_form_id"
+formspree_form_path: "f/myyrlqnk"

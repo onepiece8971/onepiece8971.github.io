@@ -478,67 +478,67 @@ de-DE:
 # -----------------
 zh: &DEFAULT_ZH
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: 云视AI机器视觉工厂解决方案
+    text: 帮助您掌握AI时代的思维与能力
+    button: 查看更多
+    buttonlink: "#plight"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "困境"
+    text: "传统工厂存在的困境"
+    section: plight
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "安全监管存在盲区"
+        desc: "传统人工巡检受限于场区环境、人员业务能力和检测方法，导致安全隐患难以及时发现，事后取证困难。"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "监管统计效率低下"
+        desc: "员工在岗率、工作状态、车间运行情况难以统计，或效率低下，掌握不全面，无法实时掌控。"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "缺乏科技感支持"
+        desc: "在大数据改革时代背景下，传统汇报方式难以给客户和监管部门留下直观、规范印象，需要一屏统览的大数据分析提升公司形象。"
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "功能模型"
+    text: "视觉AI在工业检测上的应用模型"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "关闭"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "解决方案"
+    text: "有点科技云视AI系统针对中小企业真实需求，推出高性能、高性价比的算力，高精度、深入行业定制的算法，以及快速部署、简单对接监督中心的平台"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "算力"
+        year:
+        desc: "芯片利用率最高可达90%，边缘端配置要求低，最低延时3秒，秒级预警，适合实时应用场景，可处理多种规模视频结构化分析。"
+        image: assets/img/timeline/01.png
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "算法"
+        year: 
+        desc: "从人的行为、设备状态及环境安全三个维度全面分析，行业定制化算法，精准度达95%。"
+        image: assets/img/timeline/02.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "部署"
+        year: 
+        desc: "软件运营服务（Software as a Service，简称SaaS）让用户能够通过互联网连接来使用基于云的应用程序。部署简单，只需接入边缘端设备，利用已安装摄像头即可使用。"
         image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+        alt: 
+      - title: "系统"
+        year: 
+        desc: "支持单点登录，方便与现有的其他系统集成，共用同一账户，无需重复注册，系统统一，使用无割裂感。"
+        image: assets/img/timeline/04.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: 
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "企业概况"
+    text: "我们是一家领先的AI智慧监控系统解决方案供应商"
+    body: "公司自成立以来，我们一直致力于为客户提供最先进、最可靠的技术产品和服务，以满足客户不断增长的安全和监控需求。我们的AI智慧监控系统采用最新的人工智能技术和大数据分析算法，能够实现对各种场景的高效监控和智能预警。该系统能够自动识别异常事件，并通过实时报警和数据分析、存储归档等功能，为客户提供及时、准确的安全保障。作为一家科技创新型企业，我们拥有一支充满激情和创造力的研发团队，不断推陈出新，为客户提供更加优质的产品和服务。同时，我们还特别注重与客户的沟通与合作，深入了解客户需求，为客户提供个性化的解决方案。重庆有点科技有限公司以“技术领先、质量为本、客户至上”为宗旨，不断追求卓越的产品性能和优势的产品成本控制，成为业内的佼佼者。我们将继续秉承这一理念，为广大客户提供更加高效、智能、稳定、安全的AI智慧监控系统解决方案，为客户的安全保驾护航。"
     section: about
 
   clients:
@@ -546,9 +546,9 @@ zh: &DEFAULT_ZH
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
+      - title: "longan"
+        url: 
+        logo: assets/img/clients/longan.jpg
       - title: "designmodo"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/designmodo.jpg
@@ -560,69 +560,46 @@ zh: &DEFAULT_ZH
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "技术团队"
+    text: "我们的团队由多位来自不同领域的专业人士牵头组成"
+    subtext: 无论是软件开发、硬件设计、AI训练搭建还是大数据分析，我们都拥有顶尖的专家和工程师。我们是一支充满激情和创新精神的团队，致力于为客户提供最先进、最完备、最高效、最便捷的全域智慧AI监控系统解决方案。
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+      - name: "王磊"
+        role: "算法工程师"
+        image: assets/img/team/01.jpg
+        desc: 他在机器学习和深度学习领域有着丰富的经验。他负责为智慧AI监控系统设计高效的算法，确保系统的准确性和稳定性。
+      - name: "李敏"
+        role: "项目经理"
+        image: assets/img/team/02.jpg
+        desc: 其不仅拥有优秀的项目管理能力，还对AI监控系统的业务需求有深入的理解。他擅长沟通协调，确保团队高效运作，满足客户的需求。
+      - name: "胥婷婷"
+        role: "产品经理师"
+        image: assets/img/team/03.jpg
+        desc: 她对用户界面和用户体验有着独特的见解。负责将系统以直观、易用的方式呈现给用户，确保用户能够轻松熟悉并使用智慧AI监控系统。
+
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "联系我们"
+    text: "电话 123456789"
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    name: "姓名*"
+    name-validation: "请输入您的姓名"
+    email: "邮箱"
+    email-validation: "请输入您的邮箱"
+    phone: "电话*"
+    phone-validation: "请输入您的电话"
+    message: "消息*"
+    message-validation: "请输入您的消息"
+    subject: "提交信息"
+    submit: "发送消息"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "隐私策略"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
+      - url: https://weibo.com
+        icon: "fab fa-weibo"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
 zh-CN:
   <<: *DEFAULT_ZH

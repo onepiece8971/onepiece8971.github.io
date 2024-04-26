@@ -1,19 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+caption: #what displays in the portfolio grid:
+  title: 烟火检测
+  subtitle: 检测摄像头范围内是否有火焰
+  thumbnail: /assets/img/portfolio/fire.jpg
+  
+#what displays when the item is clicked:
+title: 烟火检测
+subtitle: 基于大规模火灾数据识别训练，配合现场摄像头，自动识别现场着火情况，第一时间报警，预防较大损失。
+image: /assets/img/portfolio/fire.jpg #main image, can be a link or a file in assets/img/portfolio
+alt: 烟火检测
 
-caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+可适用于各类工厂环境，检测是否发生火灾
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- 类型: 作业安全
