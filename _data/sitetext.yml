@@ -490,13 +490,13 @@ zh: &DEFAULT_ZH
     list:
       - title: "安全监管存在盲区"
         desc: "传统人工巡检受限于场区环境、人员业务能力和检测方法，导致安全隐患难以及时发现，事后取证困难。"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-eye-slash #find more at https://fontawesome.com/icons
       - title: "监管统计效率低下"
         desc: "员工在岗率、工作状态、车间运行情况难以统计，或效率低下，掌握不全面，无法实时掌控。"
-        icon: fas fa-laptop
+        icon: fas fa-battery-quarter
       - title: "缺乏科技感支持"
         desc: "在大数据改革时代背景下，传统汇报方式难以给客户和监管部门留下直观、规范印象，需要一屏统览的大数据分析提升公司形象。"
-        icon: fab fa-markdown
+        icon: fas fa-rocket
 
   portfolio:
     title: "功能模型"
