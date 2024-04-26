@@ -235,12 +235,28 @@
             ) {
               message =
                 "Not a valid email address<!-- data-validator-validemail-message to override -->";
-              if ($this.data("validationValidemailMessage")) {
-                message = $this.data("validationValidemailMessage");
+              if ($this.data("validatorValidemailMessage")) {
+                message = $this.data("validatorValidemailMessage");
               } else if ($this.data("validationEmailMessage")) {
                 message = $this.data("validationEmailMessage");
               }
               $this.data("validationValidemailMessage", message);
+            }
+            // ---------------------------------------------------------
+            //                                                     TEL
+            // ---------------------------------------------------------
+            if (
+              $this.attr("type") !== undefined &&
+              $this.attr("type").toLowerCase() === "tel"
+            ) {
+              message =
+                "Not a valid phone number<!-- data-validator-validtel-message to override -->";
+              if ($this.data("validatorValidtelMessage")) {
+                message = $this.data("validatorValidtelMessage");
+              } else if ($this.data("validationTelMessage")) {
+                message = $this.data("validationTelMessage");
+              }
+              $this.data("validationValidtelMessage", message);
             }
             // ---------------------------------------------------------
             //                                                MINCHECKED
@@ -965,6 +981,13 @@
         regex: "[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,4}",
         message:
           "Not a valid email address<!-- data-validator-validemail-message to override -->",
+      },
+      validtel: {
+        name: "validtel",
+        type: "regex",
+        regex: "^1[3456789][0-9]{9}$",
+        message:
+          "Not a valid phone number<!-- data-validator-validtel-message to override -->",
       },
       passwordagain: {
         name: "Passwordagain",

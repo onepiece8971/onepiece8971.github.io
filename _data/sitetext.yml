@@ -547,16 +547,16 @@ zh: &DEFAULT_ZH
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "longan"
-        url: 
+        url: https://longangy.51pla.com
         logo: assets/img/clients/longan.jpg
       - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: 
         logo: assets/img/clients/designmodo.jpg
       - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: 
         logo: assets/img/clients/themeforest.jpg
       - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: 
         logo: assets/img/clients/creative-market.jpg
 
   team:
@@ -568,7 +568,7 @@ zh: &DEFAULT_ZH
       - name: "王磊"
         role: "算法工程师"
         image: assets/img/team/01.jpg
-        desc: 他在机器学习和深度学习领域有着丰富的经验。他负责为智慧AI监控系统设计高效的算法，确保系统的准确性和稳定性。
+        desc: 他在机器学习和深度学习领域有着丰富的经验。负责为智慧AI监控系统设计高效的算法，确保系统的准确性和稳定性。
       - name: "李敏"
         role: "项目经理"
         image: assets/img/team/02.jpg
@@ -581,14 +581,16 @@ zh: &DEFAULT_ZH
 
   contact:
     title: "联系我们"
-    text: "电话 123456789"
+    text: "电话 13883073081"
     section: contact
     name: "姓名*"
     name-validation: "请输入您的姓名"
     email: "邮箱"
-    email-validation: "请输入您的邮箱"
+    email-required: "请输入您的邮箱"
+    email-validation: "不是有效的电子邮件地址"
     phone: "电话*"
-    phone-validation: "请输入您的电话"
+    phone-required: "请输入您的电话"
+    phone-validation: "不是有效的电话号码"
     message: "消息*"
     message-validation: "请输入您的消息"
     subject: "提交信息"
@@ -599,6 +601,10 @@ zh: &DEFAULT_ZH
     social:
       - url: https://weibo.com
         icon: "fab fa-weibo"
+      - url: https://weixin.com
+        icon: "fab fa-weixin"
+      - url: https://douyin.com
+        icon: "fab fa-tiktok"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
 zh-CN:
