@@ -6,7 +6,7 @@ caption: #what displays in the portfolio grid:
   
 #what displays when the item is clicked:
 title: 模型定制
-subtitle: 支持功能定制，针对不同场景定制私有模型，如仪表预警，常量统计等。
+subtitle: 支持功能定制，针对不同场景定制私有模型，如仪表预警，产量统计等。
 image: /assets/img/portfolio/other.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: 模型定制
 
