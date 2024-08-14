@@ -16,9 +16,9 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : 有点科技
+title      : 整点科技
 email      : youdian@163.com #this is also the email contact forms will go to
-description: "有点科技视觉AI系统"
+description: "整点科技视觉AI系统"
 author     : #Your Name
 logo:     #optional, defaults to site title
   path: /assets/img/u-logo.png
