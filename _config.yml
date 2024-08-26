@@ -17,7 +17,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : 整点科技
-email      : youdian@163.com #this is also the email contact forms will go to
+email      : onepiece8971@163.com #this is also the email contact forms will go to
 description: "整点科技视觉AI系统"
 author     : #Your Name
 logo:     #optional, defaults to site title

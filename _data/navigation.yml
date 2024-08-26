@@ -97,6 +97,6 @@ zh: &DEFAULT_ZH
     - title: "联系我们"
       section: contact
     - title: "云视AI系统"
-      url: http://smartplantai.cn
+      url: https://cloud.zhengdian.tech/dashboard
 zh-CN:
   <<: *DEFAULT_ZH
