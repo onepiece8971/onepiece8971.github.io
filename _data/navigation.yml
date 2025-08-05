@@ -96,7 +96,5 @@ zh: &DEFAULT_ZH
       section: team
     - title: "联系我们"
       section: contact
-    - title: "云视AI系统"
-      url: https://cloud.zhengdian.tech/dashboard
 zh-CN:
   <<: *DEFAULT_ZH
